@@ -1,12 +1,10 @@
 ## Hi there 👋 I'm a Software Engineer ૮꒰ ˶• ༝ •˶꒱ა ♡
 
-❤ **Working on:** "Project-run" (temp), a running application catered towards the girlies who like to run.
+🌸 **Working on:** "Project-run" (temp), a running application catered towards the girlies who like to run.
 
-❤ **Learning:** Full-Stack engineering, Design, and 3D Modeling.  
+🌸 **Learning:** Full-Stack engineering, Design, and 3D Modeling.
 
-/)/)
-( . .)
-( づ♡
+(„• ֊ •„)♡
 
 <!--
 **Chelsea-Pierre/Chelsea-Pierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
