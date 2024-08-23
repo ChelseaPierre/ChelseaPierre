@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm a Software Engineer ૮꒰ ˶• ༝ •˶꒱ა ♡
 
-🌸 **Working on:** A Comprehensive Full-Stack Portfolio.
-
-🌸 **Learning:** Full-Stack engineering, UI/UX Design, and 3D Modeling.
-
+🌸 **Learning:** Full-Stack development, UI/UX Design
 („• ֊ •„)♡
 
 <!--
