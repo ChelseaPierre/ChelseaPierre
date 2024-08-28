@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm a Software Engineer ૮꒰ ˶• ༝ •˶꒱ა ♡
 🌸 **Working on:** Destiny inpsired website
-🌸 **Learning:** Full-Stack development, UI/UX Design
+
+🌸 **Learning:** Full-Stack development
+
 („• ֊ •„)♡
 
 <!--
