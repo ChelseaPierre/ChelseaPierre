@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm a Software Engineer ૮꒰ ˶• ༝ •˶꒱ა ♡
-🌸 **I'm working on:** a planner app
+🌸 **I'm working on:** a running app
 
 🌸 **I'm currently focused on:** Full-Stack development
 
